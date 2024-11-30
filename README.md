@@ -46,4 +46,4 @@ All bugs, comments, and feedback can be reported at [feedback@meritumnews.com](m
 
 Bugs I'm aware of and will be fixed in the future:
 
-- Incorrectly displayed notification icon (mainly on Samsung devices)
+- Incorrectly displayed notification icon (Android only, mainly on Samsung devices)
